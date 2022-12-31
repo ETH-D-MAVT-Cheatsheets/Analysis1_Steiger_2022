@@ -1,0 +1,49 @@
+% !TeX root = ../../ZF_bmicha_Ana.tex
+\subsection{Kreis / Ellipse}
+    Ellipse mit Mittelpunkt $(x_o, y_o)$ und Halbachsen $a$ \& $b$.\\
+    \underline{\textit{implizit}:}
+    $$
+        \left(
+            \frac{x-x_o}{a}
+        \right)^2
+        +
+        \left(
+            \frac{y-y_o}{b}
+        \right)^2
+        = 1
+    $$
+    \underline{\textit{parametrisiert}:}
+    \begin{align*}
+        x(t) &= x_o + a \cdot \cos(t)\\
+        y(t) &= y_o + b \cdot \sin(t)
+    \end{align*}
+\subsection{Normal- und Tangentialvektoren}
+    \subsubsubsection{explizit}
+    \vspace*{0.75em}
+    $$
+            y = f(x)
+        \quad
+            \vec{t} = \begin{pmatrix}
+                1\\f'(x_o)
+            \end{pmatrix}
+        \quad 
+            \vec{n} = \begin{pmatrix}
+                f'(x_o) \\ -1
+            \end{pmatrix}
+    $$
+    \vspace*{-0.25em}
+    \subsubsubsection{parametrisiert}
+    \vspace*{0.75em}
+    $$
+            \vec{r}(t) = \begin{pmatrix}
+                x(t)\\y(t)
+            \end{pmatrix}
+        \quad 
+            \vec{t} = \begin{pmatrix}
+                \dot{x}(t)\\ \dot{y}(t)
+            \end{pmatrix}
+        \quad 
+            \vec{n} = \begin{pmatrix}
+                -\dot{y}(t)\\ \dot{x}(t)
+            \end{pmatrix}
+    $$
