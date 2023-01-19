@@ -1,5 +1,6 @@
 \subsection{Häufige Funktionsgraphen}
     \subsubsection{ln(x)}
+    \centerline{
         \begin{tikzpicture}
             \draw [help lines] (-2,-1) grid [step=1] (4,4);
             \draw (-2,0) -- (4,0);
@@ -9,3 +10,4 @@
             \draw [color = blue] plot [smooth, samples = 100, domain = -2:1.386] (\x, {e^\x});
                 \draw (2,1) node[left, red,fill=white] {$\ln(x)$};
         \end{tikzpicture}
+    }

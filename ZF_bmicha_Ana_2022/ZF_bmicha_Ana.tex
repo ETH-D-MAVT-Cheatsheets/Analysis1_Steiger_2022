@@ -17,6 +17,7 @@
 \usepackage{tabularx}
 \usepackage{extarrows}
 \usepackage{booktabs}
+
 \usetikzlibrary{fadings}
 \usetikzlibrary{patterns}
 \usetikzlibrary{shadows.blur}
@@ -50,34 +51,12 @@
         \input{src/Komplexe_Zahlen/basics.tex}
         \input{src/Komplexe_Zahlen/nullstellen-reeller-Polynome.tex}
         \input{src/Komplexe_Zahlen/konjugierte.tex}
-    \section{Differentialrechnung}
-        \input{src/Differentialrechnung/inverse_ableitung.tex}
-        \input{src/Differentialrechnung/tangenten.tex}
-        \input{src/Differentialrechnung/1D_fehlerrechnung.tex}
-        \input{src/Differentialrechnung/evolute.tex}
-        \input{src/Differentialrechnung/kruemmung.tex}
-        %\vfill \null \columnbreak
-    \section{Parametrisierungen}
-        \input{src/Parametrisierungen/parametrisierungen.tex}
-        \input{src/Parametrisierungen/normal_tangentialvektoren.tex}
-    \section{Integralrechnung}
-        % \input{src/Integralrechnung/leibnitz.tex}
-        \input{src/Integralrechnung/hauptsatz_infinitesimalrechnung.tex}
-        \input{src/Integralrechnung/partialbruchzerlegung.tex}
-        \input{src/Integralrechnung/partielle-integration.tex}
-        %\vfill \null \columnbreak
-        \input{src/Integralrechnung/bogenlaenge.tex}
-        \input{src/Integralrechnung/flaechenberechnungen.tex}
-        \input{src/Integralrechnung/rotationsvolumen.tex}
-        %\vfill \null \columnbreak
-        \input{src/Integralrechnung/rotationsoberflaechen.tex}
-        \input{src/Integralrechnung/schwerpunkt_traegheitsmoment.tex}
-        \input{src/Integralrechnung/uneigentliche-integrale.tex}
     \section{Potenzreihen \texorpdfstring{\hfill FoTaBe S.77}{ - FoTaBe S.77}}
         \input{src/Potenzreihen/allgemein.tex}
         \input{src/Potenzreihen/konvergenzradius.tex}
         \input{src/Potenzreihen/taylorreihen.tex}
-        \vfill \null \columnbreak
+
+        \newpage
     \section{Trigonometrie}
         \input{src/Trigonometrie/tabelle.tex}
         % \input{src/Trigonometrie/einheitskreis.tex}
@@ -132,10 +111,38 @@
     \section{Appendix}
     \input{src/Appendix/nullstellen_reeller_polynome.tex}
     \input{src/Appendix/intcosnsinn.tex}
+    \input{src/Appendix/polynome_nten_grades.tex}
+    \input{src/Appendix/wichtige_grenzwerte.tex}
     \input{src/Appendix/ableitung_un_gerade_fkt.tex}
+    \vfill \null \columnbreak
     \input{src/Appendix/exponentialgesetze.tex}
     \input{src/Appendix/polarkoordinaten.tex}
     \input{src/Appendix/haeufige_parametrisierungen.tex}
     \input{src/Appendix/haeufige_funktionsgraphen.tex}
+
+    \newpage
+
+    \section{Parametrisierungen}
+        \input{src/Parametrisierungen/parametrisierungen.tex}
+        \input{src/Parametrisierungen/normal_tangentialvektoren.tex}
+    \section{Differentialrechnung}
+        \input{src/Differentialrechnung/inverse_ableitung.tex}
+        \input{src/Differentialrechnung/tangenten.tex}
+        \input{src/Differentialrechnung/1D_fehlerrechnung.tex}
+        \input{src/Differentialrechnung/evolute.tex}
+        \input{src/Differentialrechnung/kruemmung.tex}
+    \section{Integralrechnung}
+        % \input{src/Integralrechnung/leibnitz.tex}
+        \input{src/Integralrechnung/hauptsatz_infinitesimalrechnung.tex}
+        \input{src/Integralrechnung/partialbruchzerlegung.tex}
+        \input{src/Integralrechnung/partielle-integration.tex}
+        %\vfill \null \columnbreak
+        \input{src/Integralrechnung/bogenlaenge.tex}
+        \input{src/Integralrechnung/flaechenberechnungen.tex}
+        \input{src/Integralrechnung/rotationsvolumen.tex}
+        \vfill \null \columnbreak
+        \input{src/Integralrechnung/rotationsoberflaechen.tex}
+        \input{src/Integralrechnung/schwerpunkt_traegheitsmoment.tex}
+        \input{src/Integralrechnung/uneigentliche-integrale.tex}
    
 \end{document}
