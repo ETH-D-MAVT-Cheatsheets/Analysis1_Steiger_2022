@@ -1,5 +1,4 @@
 \subsection{Häufige Funktionsgraphen}
-    \subsubsection{ln(x)}
     \centerline{
         \begin{tikzpicture}
             \draw [help lines] (-2,-1) grid [step=1] (4,4);
@@ -13,5 +12,8 @@
                 \draw (3,2) node[left, green, fill=white] {$\sqrt{x}$};
             \draw [color = yellow] plot [smooth, samples = 100, domain = -2:2] (\x, {(\x)^2});
                 \draw (1.8, 3) node[right, yellow, fill=white] {$x^2$};
+            \draw [color = purple] plot [smooth, samples = 100, domain = -2:4] (\x, {1/(1+(\x)^2)});
+                \draw (3,-0.4
+                ) node[right, purple, fill=white] {$\frac{1}{1+x^2}$};
         \end{tikzpicture}
     }
