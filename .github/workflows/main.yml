@@ -9,7 +9,8 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: ZF_bmicha_Ana_2022/ZF_bmicha_Ana.tex
+          working_directory: ZF_bmicha_Ana_2022
+          root_file: ZF_bmicha_Ana.tex
       - name: Upload PDF file
         uses: actions/upload-artifact@v3
         with:
