@@ -11,6 +11,7 @@ jobs:
         with:
           working_directory: ZF_bmicha_Ana_2022
           root_file: ZF_bmicha_Ana.tex
+          continue_on_error: true
       - name: Upload PDF file
         uses: actions/upload-artifact@v3
         with:
