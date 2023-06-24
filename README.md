@@ -1,3 +1,6 @@
 # Analysis 1 ZF Steiger 2022
 
-![PDF](ZF_bmicha_Ana.pdf)
+[![Build LaTeX document](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
+
+
+Download the latest PDF version [here](../../releases/latest)!
