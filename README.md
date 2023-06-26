@@ -1,4 +1,4 @@
-# Analysis 1 ZF Steiger 2022
+# Analysis 1 ZF Dr. Steiger 2022
 
 [![Build LaTeX document](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
 
