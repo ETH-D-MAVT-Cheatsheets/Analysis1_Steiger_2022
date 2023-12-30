@@ -4,7 +4,6 @@
 \usepackage{graphicx}
 % for wild tikz drawings
 \usepackage{tikz}
-\usepackage{pgfplots}
 \usepackage{mathdots}
 \usepackage{yhmath}
 \usepackage{cancel}
@@ -17,21 +16,19 @@
 \usepackage{tabularx}
 \usepackage{extarrows}
 \usepackage{booktabs}
-
 \usetikzlibrary{fadings}
 \usetikzlibrary{patterns}
 \usetikzlibrary{shadows.blur}
 \usetikzlibrary{shapes}
 
-\author{Micha Bosshart - bmicha@ethz.ch\\\footnotesize Ergänzt von N. Sendlhofer - nsendlhofer \& C. Leser - cleser}
+\author{Micha Bosshart - bmicha@ethz.ch}
 \title{Analysis I}
 
 \input{setup/setup.tex}
 
 % Remove Section Enumeration
-\setcounter{secnumdepth}{0}
+% \setcounter{secnumdepth}{0}
 
-%\def\HyperFirstAtBeginDocument#1{#1} 
 \begin{document}
     \section{Funktionen}
         \input{src/Funktionen/folgen-reihen.tex}
@@ -44,28 +41,43 @@
     \section{Komplexe Zahlen}
         \input{src/Komplexe_Zahlen/basics.tex}
         \input{src/Komplexe_Zahlen/nullstellen-reeller-Polynome.tex}
-        \input{src/Komplexe_Zahlen/konjugierte.tex}
+    \section{Differentialrechnung}
+        \input{src/Differentialrechnung/inverse_ableitung.tex}
+        \input{src/Differentialrechnung/tangenten.tex}
+        \input{src/Differentialrechnung/1D_fehlerrechnung.tex}
+        \input{src/Differentialrechnung/evolute.tex}
+        \input{src/Differentialrechnung/kruemmung.tex}
+        \vfill \null \columnbreak
+        \section{Parametrisierungen}
+        \input{src/Parametrisierungen/parametrisierungen.tex}
+    \section{Integralrechnung}
+        % \input{src/Integralrechnung/leibnitz.tex}
+        \input{src/Integralrechnung/hauptsatz_infinitesimalrechnung.tex}
+        \input{src/Integralrechnung/partialbruchzerlegung.tex}
+        \input{src/Integralrechnung/partielle-integration.tex}
+        \vfill \null \columnbreak
+        \input{src/Integralrechnung/bogenlaenge.tex}
+        \input{src/Integralrechnung/flaechenberechnungen.tex}
+        \input{src/Integralrechnung/rotationsvolumen.tex}
+        \vfill \null \columnbreak
+        \input{src/Integralrechnung/rotationsoberflaechen.tex}
+        \input{src/Integralrechnung/schwerpunkt_traegheitsmoment.tex}
+        \input{src/Integralrechnung/uneigentliche-integrale.tex}
     \section{Potenzreihen}
         \input{src/Potenzreihen/allgemein.tex}
         \input{src/Potenzreihen/konvergenzradius.tex}
         \input{src/Potenzreihen/taylorreihen.tex}
-
-        \newpage
-    \section{Trigonometrie}
-        \input{src/Trigonometrie/tabelle.tex}
-        % \input{src/Trigonometrie/einheitskreis.tex}
-        \input{src/Trigonometrie/rechenregeln.tex}
-        \input{src/Trigonometrie/funktionsmodifikation.tex}
-    % \cbreak
+    \cbreak
+    
     % \section{Mehrdimensionale Fkt. - Diff. Rechnung}
-        % \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/fehlerrechnung.tex}
+    %     \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/fehlerrechnung.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/niveaulinien-flaechen.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/gradient.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/richtungsableitung.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/tangentialebenen.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/extremalstellen-2D.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/satz-von-schwarz.tex}
-    % \cbreak
+    % % \cbreak
     %     \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/integrabilitaetsbedingung.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Differentialrechnung/verallg_kettenregel.tex}
     % \section{Mehrdimensionale Fkt. - Int. Rechnung}
@@ -74,12 +86,13 @@
     %     \input{src/Mehrdimensionale-Funktionen_Integralrechnung/koordinatentransformationen.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Integralrechnung/ellipsenkoordinaten.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Integralrechnung/jacobi.tex}
-        % \input{src/Mehrdimensionale-Funktionen_Integralrechnung/schwerpunkte.tex}
-        % \input{src/Mehrdimensionale-Funktionen_Integralrechnung/traegheitsmoment.tex}
+    %     \input{src/Mehrdimensionale-Funktionen_Integralrechnung/schwerpunkte.tex}
+    %     \input{src/Mehrdimensionale-Funktionen_Integralrechnung/traegheitsmoment.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Integralrechnung/leibnitz.tex}
     %     \input{src/Mehrdimensionale-Funktionen_Integralrechnung/oberflaenintegrale.tex}
-    % \cbreak
+    % % \cbreak
     %     \input{src/Mehrdimensionale-Funktionen_Integralrechnung/parametrisierungen-flaechen.tex}
+    % \vfill \null \columnbreak
     % \section{Vektoranalysis}
     %     \input{src/Vektoranalysis/allgemein.tex}
     %     \input{src/Vektoranalysis/divrot.tex}
@@ -92,6 +105,7 @@
     %     \input{src/Differentialgleichungen/separierbare-DGL.tex}
     %     \input{src/Differentialgleichungen/substitutionen.tex}
     %     \input{src/Differentialgleichungen/orthogonaltrajektorien.tex}
+    %     \vfill \null \columnbreak
     %     \input{src/Differentialgleichungen/enveloppe.tex}
     %     \input{src/Differentialgleichungen/linear-1-ordnung.tex}
     %     \input{src/Differentialgleichungen/spezielle-DGL.tex}
@@ -101,47 +115,10 @@
     %     \input{src/Differentialgleichungen/Euler-DGL.tex}
     %     \cbreak
     %     \input{src/Differentialgleichungen/DGL-Systeme.tex}
-    %\vfill \null \columnbreak
-    \section{Appendix A}
+    % \vfill \null \pagebreak
+    
+    \section{Appendix}
     \input{src/Appendix/nullstellen_reeller_polynome.tex}
     \input{src/Appendix/intcosnsinn.tex}
-    \input{src/Appendix/polynome_nten_grades.tex}
-    \input{src/Appendix/wichtige_grenzwerte.tex}
-    \input{src/Appendix/reihenentwicklung.tex}
-    \input{src/Appendix/wichtige_integrale.tex}
-    \input{src/Appendix/ableitung_un_gerade_fkt.tex}
-    \input{src/Appendix/exponentialgesetze.tex}
-    \input{src/Appendix/polarkoordinaten.tex}
-
-    \newpage
-
-    \section{Parametrisierungen}
-        \input{src/Parametrisierungen/parametrisierungen.tex}
-        \input{src/Parametrisierungen/normal_tangentialvektoren.tex}
-    \section{Differentialrechnung}
-        \input{src/Differentialrechnung/inverse_ableitung.tex}
-        \input{src/Differentialrechnung/tangenten.tex}
-        \input{src/Differentialrechnung/1D_fehlerrechnung.tex}
-        \input{src/Differentialrechnung/evolute.tex}
-        \input{src/Differentialrechnung/kruemmung.tex}
-    \section{Integralrechnung}
-        % \input{src/Integralrechnung/leibnitz.tex}
-        \input{src/Integralrechnung/hauptsatz_infinitesimalrechnung.tex}
-        \input{src/Integralrechnung/partialbruchzerlegung.tex}
-        \input{src/Integralrechnung/partielle-integration.tex}
-        %\vfill \null \columnbreak
-        \input{src/Integralrechnung/bogenlaenge.tex}
-        \input{src/Integralrechnung/flaechenberechnungen.tex}
-        \input{src/Integralrechnung/rotationsvolumen.tex}
-        \input{src/Integralrechnung/rotationsoberflaechen.tex}
-        \input{src/Integralrechnung/schwerpunkt_traegheitsmoment.tex}
-        %\vfill \null \columnbreak
-        \input{src/Integralrechnung/uneigentliche-integrale.tex}
-        \vfill \null \columnbreak
-    
-    \section{Appendix B}
-        \input{src/Appendix/haeufige_parametrisierungen.tex}
-        \vfill \null \columnbreak
-        \input{src/Appendix/haeufige_funktionsgraphen.tex}
    
 \end{document}

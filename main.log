@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  30 DEC 2023 08:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.3.1)  30 DEC 2023 08:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -774,131 +774,11 @@ Package: empheq 2017/03/31 v2.15 Emphasizing equations
 (/opt/texlive/texdir/texmf-dist/tex/latex/physics/physics.sty
 Package: physics 
 )
-(/opt/texlive/texdir/texmf-dist/tex/latex/pgfplots/pgfplots.sty
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
-Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
-\t@pgfplots@toka=\toks38
-\t@pgfplots@tokb=\toks39
-\t@pgfplots@tokc=\toks40
-\pgfplots@tmpa=\dimen297
-\c@pgfplots@coordindex=\count325
-\c@pgfplots@scanlineindex=\count326
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.cod
-e.tex))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.
-tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsold
-pgfsupp_loader.code.tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.te
-x)
-Package pgfplots: loading complementary utilities for your pgf version...
-\t@pgf@toka=\toks41
-\t@pgf@tokb=\toks42
-\t@pgf@tokc=\toks43
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsold
-pgfsupp_pgfutil-common-lists.tex))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslist
-structure.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslist
-structureext.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarra
-y.code.tex
-\c@pgfplotsarray@tmp=\count327
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatr
-ix.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshar
-ed.code.tex
-\c@pgfplotstable@counta=\count328
-\t@pgfplotstable@a=\toks44
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdequ
-e.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.t
-ex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.c
-ode.tex))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.cod
-e.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.su
-rfshading.code.tex
-\c@pgfplotslibrarysurf@no=\count329
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.sur
-fshading.pgfsys-pdftex.def)))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code
-.tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.te
-x))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.
-tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.
-tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.co
-de.tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code
-.tex)))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.co
-de.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.te
-x)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
-kzlibrarydecorations.code.tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.co
-de.tex
-\pgfdecoratedcompleteddistance=\dimen298
-\pgfdecoratedremainingdistance=\dimen299
-\pgfdecoratedinputsegmentcompleteddistance=\dimen300
-\pgfdecoratedinputsegmentremainingdistance=\dimen301
-\pgf@decorate@distancetomove=\dimen302
-\pgf@decorate@repeatstate=\count330
-\pgfdecorationsegmentamplitude=\dimen303
-\pgfdecorationsegmentlength=\dimen304
-)
-\tikz@lib@dec@box=\box119
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
-kzlibrarydecorations.pathmorphing.code.tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrar
-ydecorations.pathmorphing.code.tex))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
-kzlibrarydecorations.pathreplacing.code.tex
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrar
-ydecorations.pathreplacing.code.tex))
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.c
-ontourlua.code.tex)
-\pgfplots@numplots=\count331
-\pgfplots@xmin@reg=\dimen305
-\pgfplots@xmax@reg=\dimen306
-\pgfplots@ymin@reg=\dimen307
-\pgfplots@ymax@reg=\dimen308
-\pgfplots@zmin@reg=\dimen309
-\pgfplots@zmax@reg=\dimen310
-)
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
-kzlibraryplotmarks.code.tex
-File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-
-(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.c
-ode.tex
-File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/opt/texlive/texdir/texmf-dist/tex/generic/mathdots/mathdots.sty
+(/opt/texlive/texdir/texmf-dist/tex/generic/mathdots/mathdots.sty
 Package: mathdots 2014/06/11 v0.9 Improve and add various macros for dots in ma
 th.
-\MDo@unit=\dimen311
-\MDo@dotsbox=\box120
+\MDo@unit=\dimen297
+\MDo@dotsbox=\box119
 \MDoprekern=\muskip17
 \MDopostkern=\muskip18
 \MDodotkern=\muskip19
@@ -942,90 +822,90 @@ Package: cancel 2013/04/12 v2.2 Cancel math terms
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2023-02-21 v3.2.1 A comprehensive (SI) units package
-\l__siunitx_angle_tmp_dim=\dimen312
-\l__siunitx_angle_marker_box=\box121
-\l__siunitx_angle_unit_box=\box122
-\l__siunitx_compound_count_int=\count332
+\l__siunitx_angle_tmp_dim=\dimen298
+\l__siunitx_angle_marker_box=\box120
+\l__siunitx_angle_unit_box=\box121
+\l__siunitx_compound_count_int=\count325
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/translations/translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
  (CN)
 )
-\l__siunitx_number_exponent_fixed_int=\count333
-\l__siunitx_number_min_decimal_int=\count334
-\l__siunitx_number_min_integer_int=\count335
-\l__siunitx_number_round_precision_int=\count336
-\l__siunitx_number_lower_threshold_int=\count337
-\l__siunitx_number_upper_threshold_int=\count338
-\l__siunitx_number_group_first_int=\count339
-\l__siunitx_number_group_size_int=\count340
-\l__siunitx_number_group_minimum_int=\count341
-\l__siunitx_table_tmp_box=\box123
-\l__siunitx_table_tmp_dim=\dimen313
-\l__siunitx_table_column_width_dim=\dimen314
-\l__siunitx_table_integer_box=\box124
-\l__siunitx_table_decimal_box=\box125
-\l__siunitx_table_uncert_box=\box126
-\l__siunitx_table_before_box=\box127
-\l__siunitx_table_after_box=\box128
-\l__siunitx_table_before_dim=\dimen315
-\l__siunitx_table_carry_dim=\dimen316
-\l__siunitx_unit_tmp_int=\count342
-\l__siunitx_unit_position_int=\count343
-\l__siunitx_unit_total_int=\count344
+\l__siunitx_number_exponent_fixed_int=\count326
+\l__siunitx_number_min_decimal_int=\count327
+\l__siunitx_number_min_integer_int=\count328
+\l__siunitx_number_round_precision_int=\count329
+\l__siunitx_number_lower_threshold_int=\count330
+\l__siunitx_number_upper_threshold_int=\count331
+\l__siunitx_number_group_first_int=\count332
+\l__siunitx_number_group_size_int=\count333
+\l__siunitx_number_group_minimum_int=\count334
+\l__siunitx_table_tmp_box=\box122
+\l__siunitx_table_tmp_dim=\dimen299
+\l__siunitx_table_column_width_dim=\dimen300
+\l__siunitx_table_integer_box=\box123
+\l__siunitx_table_decimal_box=\box124
+\l__siunitx_table_uncert_box=\box125
+\l__siunitx_table_before_box=\box126
+\l__siunitx_table_after_box=\box127
+\l__siunitx_table_before_dim=\dimen301
+\l__siunitx_table_carry_dim=\dimen302
+\l__siunitx_unit_tmp_int=\count335
+\l__siunitx_unit_position_int=\count336
+\l__siunitx_unit_total_int=\count337
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen317
-\ar@mcellbox=\box129
-\extrarowheight=\dimen318
-\NC@list=\toks45
+\col@sep=\dimen303
+\ar@mcellbox=\box128
+\extrarowheight=\dimen304
+\NC@list=\toks38
 \extratabsurround=\skip136
 \backup@length=\skip137
-\ar@cellbox=\box130
+\ar@cellbox=\box129
 ))
 (/opt/texlive/texdir/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip138
-\multirow@cntb=\count345
+\multirow@cntb=\count338
 \multirow@dima=\skip139
-\bigstrutjot=\dimen319
+\bigstrutjot=\dimen305
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen320
-\TX@old@table=\dimen321
-\TX@old@col=\dimen322
-\TX@target=\dimen323
-\TX@delta=\dimen324
-\TX@cols=\count346
-\TX@ftn=\toks46
+\TX@col@width=\dimen306
+\TX@old@table=\dimen307
+\TX@old@col=\dimen308
+\TX@target=\dimen309
+\TX@delta=\dimen310
+\TX@cols=\count339
+\TX@ftn=\toks39
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/extarrows/extarrows.sty
 Package: extarrows 2020/03/12 v1.2.0 Some extensible arrows
 )
 (/opt/texlive/texdir/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen325
-\lightrulewidth=\dimen326
-\cmidrulewidth=\dimen327
-\belowrulesep=\dimen328
-\belowbottomsep=\dimen329
-\aboverulesep=\dimen330
-\abovetopsep=\dimen331
-\cmidrulesep=\dimen332
-\cmidrulekern=\dimen333
-\defaultaddspace=\dimen334
-\@cmidla=\count347
-\@cmidlb=\count348
-\@aboverulesep=\dimen335
-\@belowrulesep=\dimen336
-\@thisruleclass=\count349
-\@lastruleclass=\count350
-\@thisrulewidth=\dimen337
+\heavyrulewidth=\dimen311
+\lightrulewidth=\dimen312
+\cmidrulewidth=\dimen313
+\belowrulesep=\dimen314
+\belowbottomsep=\dimen315
+\aboverulesep=\dimen316
+\abovetopsep=\dimen317
+\cmidrulesep=\dimen318
+\cmidrulekern=\dimen319
+\defaultaddspace=\dimen320
+\@cmidla=\count340
+\@cmidlb=\count341
+\@aboverulesep=\dimen321
+\@belowrulesep=\dimen322
+\@thisruleclass=\count342
+\@lastruleclass=\count343
+\@thisrulewidth=\dimen323
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
 kzlibraryfadings.code.tex
@@ -1053,7 +933,7 @@ File: tikzlibraryshadows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 kzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-\pgfbs@fading@count=\count351
+\pgfbs@fading@count=\count344
 )
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
 kzlibraryshapes.code.tex
@@ -1102,60 +982,60 @@ File: tikzlibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshap
 es.multipart.code.tex
 File: pgflibraryshapes.multipart.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodepartlowerbox=\box131
-\pgfnodeparttwobox=\box132
-\pgfnodepartthreebox=\box133
-\pgfnodepartfourbox=\box134
-\pgfnodeparttwentybox=\box135
-\pgfnodepartnineteenbox=\box136
-\pgfnodeparteighteenbox=\box137
-\pgfnodepartseventeenbox=\box138
-\pgfnodepartsixteenbox=\box139
-\pgfnodepartfifteenbox=\box140
-\pgfnodepartfourteenbox=\box141
-\pgfnodepartthirteenbox=\box142
-\pgfnodeparttwelvebox=\box143
-\pgfnodepartelevenbox=\box144
-\pgfnodeparttenbox=\box145
-\pgfnodepartninebox=\box146
-\pgfnodeparteightbox=\box147
-\pgfnodepartsevenbox=\box148
-\pgfnodepartsixbox=\box149
-\pgfnodepartfivebox=\box150
+\pgfnodepartlowerbox=\box130
+\pgfnodeparttwobox=\box131
+\pgfnodepartthreebox=\box132
+\pgfnodepartfourbox=\box133
+\pgfnodeparttwentybox=\box134
+\pgfnodepartnineteenbox=\box135
+\pgfnodeparteighteenbox=\box136
+\pgfnodepartseventeenbox=\box137
+\pgfnodepartsixteenbox=\box138
+\pgfnodepartfifteenbox=\box139
+\pgfnodepartfourteenbox=\box140
+\pgfnodepartthirteenbox=\box141
+\pgfnodeparttwelvebox=\box142
+\pgfnodepartelevenbox=\box143
+\pgfnodeparttenbox=\box144
+\pgfnodepartninebox=\box145
+\pgfnodeparteightbox=\box146
+\pgfnodepartsevenbox=\box147
+\pgfnodepartsixbox=\box148
+\pgfnodepartfivebox=\box149
 ))) (./setup/setup.tex)
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 35.
+h' as default language. on input line 32.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 (/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count352
-\scratchdimen=\dimen338
-\scratchbox=\box151
-\nofMPsegments=\count353
-\nofMParguments=\count354
-\everyMPshowfont=\toks47
-\MPscratchCnt=\count355
-\MPscratchDim=\dimen339
-\MPnumerator=\count356
-\makeMPintoPDFobject=\count357
-\everyMPtoPDFconversion=\toks48
+\scratchcounter=\count345
+\scratchdimen=\dimen324
+\scratchbox=\box150
+\nofMPsegments=\count346
+\nofMParguments=\count347
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count348
+\MPscratchDim=\dimen325
+\MPnumerator=\count349
+\makeMPintoPDFobject=\count350
+\everyMPtoPDFconversion=\toks41
 ) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1201,14 +1081,8 @@ e
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 35.
-\Hy@linkcounter=\count358
-
-Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
-ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
-your preamble.
- on input line 35.
-
+(lastpage)             ! on input line 32.
+\Hy@linkcounter=\count351
 
 Package siunitx Warning: Detected the "physics" package:
 (siunitx)                omitting definition of \qty.
@@ -1227,16 +1101,16 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 35.
-LaTeX Info: Redefining \celsius on input line 35.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 35.
+or `english'. on input line 32.
+LaTeX Info: Redefining \celsius on input line 32.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 32.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 35.
-Package gensymb Info: Using \Omega for \ohm on input line 35.
+LaTeX Info: Redefining \ohm on input line 32.
+Package gensymb Info: Using \Omega for \ohm on input line 32.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -1267,103 +1141,78 @@ File: OMXyhex.fd 2013/07/03 v1.1 YH's humble contribution to TeX maths (NP)
 (./src/Funktionen/hyperbolische_funktionen.tex)
 (./src/Komplexe_Zahlen/basics.tex)
 (./src/Komplexe_Zahlen/nullstellen-reeller-Polynome.tex)
-(./src/Komplexe_Zahlen/konjugierte.tex) (./src/Potenzreihen/allgemein.tex)
-(./src/Potenzreihen/konvergenzradius.tex
-<src/Potenzreihen/konvergenzradius.pdf, id=31, 299.52502pt x 165.21555pt>
+(./src/Differentialrechnung/inverse_ableitung.tex)
+(./src/Differentialrechnung/tangenten.tex)
+(./src/Differentialrechnung/1D_fehlerrechnung.tex)
+(./src/Differentialrechnung/evolute.tex
+Underfull \hbox (badness 10000) in paragraph at lines 19--2
+
+ []
+
+) (./src/Differentialrechnung/kruemmung.tex)
+Package mdframed Info: Not enough space on this page on input line 51.
+
+(./src/Parametrisierungen/parametrisierungen.tex [1{/opt/texlive/texdir/texmf-v
+ar/fonts/map/pdftex/updmap/pdftex.map}
+
+])
+(./src/Integralrechnung/hauptsatz_infinitesimalrechnung.tex)
+(./src/Integralrechnung/partialbruchzerlegung.tex)
+(./src/Integralrechnung/partielle-integration.tex)
+(./src/Integralrechnung/bogenlaenge.tex
+Package mdframed Info: Not enough space on this page on input line 2.
+)
+(./src/Integralrechnung/flaechenberechnungen.tex
+<src/Integralrechnung/param.pdf, id=51, 112.85272pt x 55.26387pt>
+File: src/Integralrechnung/param.pdf Graphic file (type pdf)
+<use src/Integralrechnung/param.pdf>
+Package pdftex.def Info: src/Integralrechnung/param.pdf  used on input line 14.
+
+(pdftex.def)             Requested size: 49.04842pt x 24.0185pt.
+<src/Integralrechnung/sektor.pdf, id=52, 98.09157pt x 96.26022pt>
+File: src/Integralrechnung/sektor.pdf Graphic file (type pdf)
+<use src/Integralrechnung/sektor.pdf>
+Package pdftex.def Info: src/Integralrechnung/sektor.pdf  used on input line 27
+.
+(pdftex.def)             Requested size: 41.62193pt x 40.84468pt.
+<src/Integralrechnung/polar.pdf, id=53, 99.96396pt x 93.93253pt>
+File: src/Integralrechnung/polar.pdf Graphic file (type pdf)
+<use src/Integralrechnung/polar.pdf>
+Package pdftex.def Info: src/Integralrechnung/polar.pdf  used on input line 39.
+
+(pdftex.def)             Requested size: 41.62193pt x 39.1117pt.
+)
+(./src/Integralrechnung/rotationsvolumen.tex)
+(./src/Integralrechnung/rotationsoberflaechen.tex
+Package mdframed Info: Not enough space on this page on input line 2.
+)
+(./src/Integralrechnung/schwerpunkt_traegheitsmoment.tex)
+(./src/Integralrechnung/uneigentliche-integrale.tex)
+(./src/Potenzreihen/allgemein.tex) (./src/Potenzreihen/konvergenzradius.tex
+<src/Potenzreihen/konvergenzradius.pdf, id=54, 299.52502pt x 165.21555pt>
 File: src/Potenzreihen/konvergenzradius.pdf Graphic file (type pdf)
 <use src/Potenzreihen/konvergenzradius.pdf>
 Package pdftex.def Info: src/Potenzreihen/konvergenzradius.pdf  used on input l
 ine 8.
 (pdftex.def)             Requested size: 133.95657pt x 73.89pt.
-) (./src/Potenzreihen/taylorreihen.tex) [1{/opt/texlive/texdir/texmf-var/fonts/
-map/pdftex/updmap/pdftex.map}
-
- <./src/Potenzreihen/konvergenzradius.pdf>]
-Package mdframed Info: Not enough space on this page on input line 54.
- (./src/Trigonometrie/tabelle.tex
-<src/Trigonometrie/trigo_tabelle.pdf, id=58, 1384.17125pt x 575.14874pt>
-File: src/Trigonometrie/trigo_tabelle.pdf Graphic file (type pdf)
-<use src/Trigonometrie/trigo_tabelle.pdf>
-Package pdftex.def Info: src/Trigonometrie/trigo_tabelle.pdf  used on input lin
-e 3.
-(pdftex.def)             Requested size: 144.26166pt x 59.94043pt.
 )
-(./src/Trigonometrie/rechenregeln.tex)
-(./src/Trigonometrie/funktionsmodifikation.tex)
+(./src/Potenzreihen/taylorreihen.tex)
+Package mdframed Info: Not enough space on this page on input line 120.
+
 (./src/Appendix/nullstellen_reeller_polynome.tex)
-(./src/Appendix/intcosnsinn.tex) (./src/Appendix/polynome_nten_grades.tex)
-(./src/Appendix/wichtige_grenzwerte.tex) (./src/Appendix/reihenentwicklung.tex)
-(./src/Appendix/wichtige_integrale.tex)
-(./src/Appendix/ableitung_un_gerade_fkt.tex)
-(./src/Appendix/exponentialgesetze.tex) (./src/Appendix/polarkoordinaten.tex)
-[2 <./src/Trigonometrie/trigo_tabelle.pdf>]
-Package mdframed Info: Not enough space on this page on input line 118.
-
-(./src/Parametrisierungen/parametrisierungen.tex)
-(./src/Parametrisierungen/normal_tangentialvektoren.tex)
-(./src/Differentialrechnung/inverse_ableitung.tex)
-(./src/Differentialrechnung/tangenten.tex)
-(./src/Differentialrechnung/1D_fehlerrechnung.tex)
-(./src/Differentialrechnung/evolute.tex
-Underfull \hbox (badness 10000) in paragraph at lines 24--2
-
- []
-
-) (./src/Differentialrechnung/kruemmung.tex)
-(./src/Integralrechnung/hauptsatz_infinitesimalrechnung.tex)
-(./src/Integralrechnung/partialbruchzerlegung.tex)
-(./src/Integralrechnung/partielle-integration.tex)
-(./src/Integralrechnung/bogenlaenge.tex)
-(./src/Integralrechnung/flaechenberechnungen.tex
-<src/Integralrechnung/param.pdf, id=67, 112.85272pt x 55.26387pt>
-File: src/Integralrechnung/param.pdf Graphic file (type pdf)
-<use src/Integralrechnung/param.pdf>
-Package pdftex.def Info: src/Integralrechnung/param.pdf  used on input line 15.
-
-(pdftex.def)             Requested size: 49.04842pt x 24.0185pt.
-<src/Integralrechnung/sektor.pdf, id=68, 98.09157pt x 96.26022pt>
-File: src/Integralrechnung/sektor.pdf Graphic file (type pdf)
-<use src/Integralrechnung/sektor.pdf>
-Package pdftex.def Info: src/Integralrechnung/sektor.pdf  used on input line 28
-.
-(pdftex.def)             Requested size: 41.62193pt x 40.84468pt.
-<src/Integralrechnung/polar.pdf, id=69, 99.96396pt x 93.93253pt>
-File: src/Integralrechnung/polar.pdf Graphic file (type pdf)
-<use src/Integralrechnung/polar.pdf>
-Package pdftex.def Info: src/Integralrechnung/polar.pdf  used on input line 40.
-
-(pdftex.def)             Requested size: 41.62193pt x 39.1117pt.
-)
-(./src/Integralrechnung/rotationsvolumen.tex
-Package mdframed Info: Not enough space on this page on input line 13.
-)
-(./src/Integralrechnung/rotationsoberflaechen.tex)
-(./src/Integralrechnung/schwerpunkt_traegheitsmoment.tex
-Overfull \hbox (53.92474pt too wide) detected at line 23
-[]
- []
-
-) (./src/Integralrechnung/uneigentliche-integrale.tex [3 <./src/Integralrechnun
-g/param.pdf> <./src/Integralrechnung/sektor.pdf> <./src/Integralrechnung/polar.
-pdf>])
-Package mdframed Info: Not enough space on this page on input line 142.
- (./src/Appendix/haeufige_parametrisierungen.tex
-Package mdframed Info: Not enough space on this page on input line 63.
-)
-(./src/Appendix/haeufige_funktionsgraphen.tex
-Package mdframed Info: Not enough space on this page on input line 1.
-)
-
+(./src/Appendix/intcosnsinn.tex) 
 AED: lastpage setting LastPage
-[4] (./main.aux) ) 
+[2 <./src/Integralrechnung/param.pdf> <./src/Integralrechnung/sektor.pdf> <./sr
+c/Integralrechnung/polar.pdf> <./src/Potenzreihen/konvergenzradius.pdf>]
+[3] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 36043 strings out of 476024
- 918216 string characters out of 5792021
- 1970388 words of memory out of 5000000
- 55745 multiletter control sequences out of 15000+600000
- 521995 words of font info for 66 fonts, out of 8000000 for 9000
+ 24792 strings out of 476024
+ 551383 string characters out of 5792021
+ 1968388 words of memory out of 5000000
+ 44675 multiletter control sequences out of 15000+600000
+ 521827 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 142i,17n,156p,721b,2044s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 142i,17n,156p,504b,2021s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmbx8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmex
 10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex
@@ -1382,10 +1231,10 @@ ts/cm/cmtt8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/sym
 bols/msbm10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/sym
 bols/msbm7.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/yhmath/yhcmex
 .pfb>
-Output written on main.pdf (4 pages, 963629 bytes).
+Output written on main.pdf (3 pages, 595005 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 111 compressed objects within 2 object streams
+ 189 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 142 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 137 words of extra memory for PDF output out of 10000 (max. 10000000)
 
